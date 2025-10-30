@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/csrc/quantization/fp8/amd/quant_utils_src.cuh.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/csrc/quantization/fp8/amd/quant_utils_src.cuh.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/csrc/quantization/fp8/amd/quant_utils_src.cuh.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/csrc/quantization/fp8/amd/quant_utils_src.cuh.patch.encrypted
+

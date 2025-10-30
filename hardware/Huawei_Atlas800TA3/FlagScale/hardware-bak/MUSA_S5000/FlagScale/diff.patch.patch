@@ -1,0 +1,5 @@
+diff --git a/hardware/MUSA_S5000/FlagScale/diff.patch b/hardware-bak/MUSA_S5000/FlagScale/diff.patch
+similarity index 100%
+rename from hardware/MUSA_S5000/FlagScale/diff.patch
+rename to hardware-bak/MUSA_S5000/FlagScale/diff.patch
+

@@ -1,0 +1,5 @@
+diff --git a/hardware/MUSA_S5000/Megatron-LM/diff.yaml b/hardware-bak/MUSA_S5000/Megatron-LM/diff.yaml
+similarity index 100%
+rename from hardware/MUSA_S5000/Megatron-LM/diff.yaml
+rename to hardware-bak/MUSA_S5000/Megatron-LM/diff.yaml
+

@@ -1,0 +1,5 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/diff.yaml b/hardware-bak/Kunlunxin_R310p/vllm/diff.yaml
+similarity index 100%
+rename from hardware/Kunlunxin_R310p/vllm/diff.yaml
+rename to hardware-bak/Kunlunxin_R310p/vllm/diff.yaml
+

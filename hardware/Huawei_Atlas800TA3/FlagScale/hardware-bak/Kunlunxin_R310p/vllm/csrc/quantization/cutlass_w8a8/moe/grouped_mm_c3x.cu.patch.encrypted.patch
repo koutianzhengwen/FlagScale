@@ -1,0 +1,5 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted b/hardware-bak/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted
+similarity index 100%
+rename from hardware/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted
+rename to hardware-bak/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted
+

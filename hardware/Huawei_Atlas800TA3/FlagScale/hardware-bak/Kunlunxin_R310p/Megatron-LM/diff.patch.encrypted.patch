@@ -1,0 +1,5 @@
+diff --git a/hardware/Kunlunxin_R310p/Megatron-LM/diff.patch.encrypted b/hardware-bak/Kunlunxin_R310p/Megatron-LM/diff.patch.encrypted
+similarity index 100%
+rename from hardware/Kunlunxin_R310p/Megatron-LM/diff.patch.encrypted
+rename to hardware-bak/Kunlunxin_R310p/Megatron-LM/diff.patch.encrypted
+

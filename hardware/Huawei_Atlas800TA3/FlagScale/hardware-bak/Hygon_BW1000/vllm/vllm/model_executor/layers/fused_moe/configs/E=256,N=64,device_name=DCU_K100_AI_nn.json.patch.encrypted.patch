@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=256,N=64,device_name=DCU_K100_AI_nn.json.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=256,N=64,device_name=DCU_K100_AI_nn.json.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=256,N=64,device_name=DCU_K100_AI_nn.json.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=256,N=64,device_name=DCU_K100_AI_nn.json.patch.encrypted
+

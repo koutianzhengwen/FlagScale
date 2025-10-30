@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted
+

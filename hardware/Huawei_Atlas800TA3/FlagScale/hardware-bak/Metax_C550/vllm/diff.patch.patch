@@ -1,0 +1,5 @@
+diff --git a/hardware/Metax_C550/vllm/diff.patch b/hardware-bak/Metax_C550/vllm/diff.patch
+similarity index 100%
+rename from hardware/Metax_C550/vllm/diff.patch
+rename to hardware-bak/Metax_C550/vllm/diff.patch
+

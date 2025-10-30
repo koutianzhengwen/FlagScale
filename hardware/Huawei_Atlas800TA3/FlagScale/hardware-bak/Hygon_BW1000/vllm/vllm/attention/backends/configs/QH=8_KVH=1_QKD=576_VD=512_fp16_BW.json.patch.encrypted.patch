@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_BW.json.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_BW.json.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_BW.json.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_BW.json.patch.encrypted
+

@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/attention/layer.py.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/vllm/attention/layer.py.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/vllm/attention/layer.py.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/vllm/attention/layer.py.patch.encrypted
+

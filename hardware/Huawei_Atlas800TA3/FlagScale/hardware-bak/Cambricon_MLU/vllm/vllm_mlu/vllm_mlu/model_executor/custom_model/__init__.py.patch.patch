@@ -1,0 +1,5 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/custom_model/__init__.py.patch b/hardware-bak/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/custom_model/__init__.py.patch
+similarity index 100%
+rename from hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/custom_model/__init__.py.patch
+rename to hardware-bak/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/custom_model/__init__.py.patch
+

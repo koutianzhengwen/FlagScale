@@ -1,0 +1,5 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_7168_2048_K100_AI.json.patch.encrypted b/hardware-bak/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_7168_2048_K100_AI.json.patch.encrypted
+similarity index 100%
+rename from hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_7168_2048_K100_AI.json.patch.encrypted
+rename to hardware-bak/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_7168_2048_K100_AI.json.patch.encrypted
+
