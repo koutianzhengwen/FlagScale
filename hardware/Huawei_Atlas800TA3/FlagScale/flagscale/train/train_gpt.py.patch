@@ -1,0 +1,13 @@
+diff --git a/flagscale/train/train_gpt.py b/flagscale/train/train_gpt.py
+index 780d2478..abc11cdf 100644
+--- a/flagscale/train/train_gpt.py
++++ b/flagscale/train/train_gpt.py
+@@ -3,6 +3,7 @@
+ """Pretrain and SFT GPT."""
+ 
+ import torch
++import torch_npu
+ 
+ from functools import partial
+ from typing import List, Optional, Tuple
+
